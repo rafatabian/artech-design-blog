@@ -89,7 +89,7 @@
 .home_title_top_five{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 23px;
-    color: #333333;
+    color: #2d5acc;
 }
 .home_top_five{
     display: flex;
@@ -102,7 +102,7 @@
 .home_top_five > h3{
    font-family: Arial, Helvetica, sans-serif;
    font-size: 16px;
-   color: #333333;
+   color: #2d5acc;
    font-weight: bold;
 }
 .home_top_five > p{
@@ -120,10 +120,10 @@
     flex-direction: row;
 }
 .home_footer_buttons_container > a{
-    color: black;
+    color: #0082e6;
      font-family: Arial, Helvetica, sans-serif;
      margin: 0 6px;
-     border:2px solid black;
+     border:2px solid #0082e6;
      padding: 10px 18px;
      border-radius: 30px;
      text-decoration: none;
@@ -137,11 +137,11 @@
     margin-left: 5px;
     width: 18px;
     height: 18px;
-    color: wblack;
+    color: #0082e6;
    }
 .home_footer_buttons_container a:hover, .home_footer_buttons_container a:hover > svg{
     color: white;
-    background-color: black;
+    background-color: #0082e6;
 }
 @media screen and (max-width:620px){
     .home_title{
