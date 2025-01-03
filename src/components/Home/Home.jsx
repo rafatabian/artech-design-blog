@@ -22,6 +22,7 @@ const Home = () => {
             <p className="home_paragraph">Let’s take a moment to think about your own website. Does it have a clear structure? Is it easy to navigate? Do your colors and fonts reflect your brand’s identity? If not, you could be losing potential customers.</p>
             <p className="home_paragraph">Here’s the good news: A well-designed website can increase your conversions significantly. Studies show that improving your website’s user experience can boost conversions by up to 400%. Yes, 400%!</p>
             <p className="home_paragraph">That means if you’re currently getting 10 sales a day, a redesign could bring you 40. That’s the power of investing in your website.</p>
+            <div className="home_image_continer"></div>
             <h2 className="home_title_top_five">So, what makes a great website design? Here are the top five elements to focus on:</h2>
             <div className="home_top_five"><h3>Responsive Design:</h3><p>Your website must look great on any device, whether it’s a phone, tablet, or desktop. With more than half of web traffic coming from mobile devices, ensuring a seamless experience across platforms is essential.</p></div>
             <div className="home_top_five"><h3>Fast Loading Speed:</h3><p> Research by Google shows that 53% of mobile users abandon sites that take longer than 3 seconds to load. A fast website not only improves user experience but also boosts your SEO rankings.</p></div>
